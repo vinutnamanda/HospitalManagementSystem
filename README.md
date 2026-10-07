@@ -1,4 +1,4 @@
-# Patient Management System
+# Hospital Management System
 
 ## Project Overview
 
